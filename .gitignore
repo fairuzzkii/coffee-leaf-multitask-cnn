@@ -1,4 +1,38 @@
+# Byte-compiled / Python cache
+__pycache__/
+*.py[cod]
+*$py.class
 *.pkl
 *.pyc
-*/results/*
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# Dataset images (jangan push file gambar raksasa ke git)
+*.jpg
+*.jpeg
+*.png
+!test.png
+
+# Temporary logs
+*.log
 */log/*
+
+# Models & Results:
+# IZINKAN file bobot model (.pth), model ONNX (.onnx), dan log JSON / CSV
+!results/**/best_weights.pth
+!results/**/*.onnx
+!results/**/*.json
+!results/**/*.csv

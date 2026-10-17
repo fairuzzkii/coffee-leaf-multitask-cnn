@@ -6,7 +6,7 @@ import torchvision.transforms as transforms
 from torch.utils.data.sampler import WeightedRandomSampler
 
 from utils.enums import Tasks
-from utils.customdatasets import CoffeeLeavesDataset
+from utils.customdatasets import CoffeeLeavesDataset, CombinedCoffeeDataset
 
 
 def _coffeeleaves_sampler(dataset, model_task):
@@ -182,3 +182,87 @@ def images_loader(images_dir, batch_size, balanced_dataset):
         balanced_dataset,
         _sampler(train_dataset),
     )
+
+
+def combined_loader(
+    images_dir, batch_size, balanced_dataset, csv_file, fold, model_task
+):
+    """Build the dataloaders for combined JMUBEN + JMUBEN V2 + BRACOL dataset."""
+    train_transforms, val_transforms = _get_transforms()
+
+    train_dataset = CombinedCoffeeDataset(
+        csv_file=csv_file,
+        dataset="train",
+        fold=fold,
+        model_task=model_task,
+        transforms=train_transforms,
+    )
+
+    val_dataset = CombinedCoffeeDataset(
+        csv_file=csv_file,
+        dataset="val",
+        fold=fold,
+        model_task=model_task,
+        transforms=val_transforms,
+    )
+
+    test_dataset = CombinedCoffeeDataset(
+        csv_file=csv_file,
+        dataset="test",
+        fold=fold,
+        model_task=model_task,
+        transforms=val_transforms,
+    )
+
+    return _build_loaders(
+        train_dataset,
+        val_dataset,
+        test_dataset,
+        batch_size,
+        balanced_dataset=False,
+        sampler=None,
+    )
+
+
+def combined_loader_3head(
+    images_dir, batch_size, balanced_dataset, csv_file, fold, model_task
+):
+    """Build the dataloaders for combined JMUBEN + JMUBEN V2 + BRACOL dataset with 3-head outputs."""
+    train_transforms, val_transforms = _get_transforms()
+
+    train_dataset = CombinedCoffeeDataset(
+        csv_file=csv_file,
+        dataset="train",
+        fold=fold,
+        model_task=model_task,
+        transforms=train_transforms,
+        is_3head=True,
+    )
+
+    val_dataset = CombinedCoffeeDataset(
+        csv_file=csv_file,
+        dataset="val",
+        fold=fold,
+        model_task=model_task,
+        transforms=val_transforms,
+        is_3head=True,
+    )
+
+    test_dataset = CombinedCoffeeDataset(
+        csv_file=csv_file,
+        dataset="test",
+        fold=fold,
+        model_task=model_task,
+        transforms=val_transforms,
+        is_3head=True,
+    )
+
+    return _build_loaders(
+        train_dataset,
+        val_dataset,
+        test_dataset,
+        batch_size,
+        balanced_dataset=False,
+        sampler=None,
+    )
+

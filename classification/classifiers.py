@@ -43,7 +43,7 @@ class MultiTaskClassifier(ModelTraining):
         balanced_dataset=False,
         batch_size=24,
         epochs=80,
-        model="resnet50",
+        model="mobilenet_v2",
         pretrained=True,
         optimizer="sgd",
         weight_decay=5e-4,
@@ -420,7 +420,7 @@ class SingleTaskClassifier(ModelTraining):
         balanced_dataset=False,
         batch_size=24,
         epochs=80,
-        model="resnet50",
+        model="mobilenet_v2",
         pretrained=True,
         optimizer="sgd",
         weight_decay=5e-4,
@@ -645,7 +645,7 @@ class SingleTaskClassifier(ModelTraining):
 
             # Record best model
             curr_fs = val_metrics["fs"]
-            if (curr_fs > best_fs) and epoch >= 3:
+            if (curr_fs > best_fs) and (epoch >= 3 or self.epochs < 4):
                 best_fs = curr_fs
 
                 # Saving model

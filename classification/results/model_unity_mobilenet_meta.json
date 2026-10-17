@@ -1,0 +1,76 @@
+{
+  "model_name": "coffee_leaf_multitask_mobilenet",
+  "backbone": "mobilenet",
+  "export_date": "2026-10-17T15:06:20.582936",
+  "opset_version": 12,
+  "input": {
+    "name": "input",
+    "shape": [
+      1,
+      3,
+      224,
+      224
+    ],
+    "dtype": "float32",
+    "color_format": "RGB",
+    "normalization": {
+      "mean": [
+        0.485,
+        0.456,
+        0.406
+      ],
+      "std": [
+        0.229,
+        0.224,
+        0.225
+      ],
+      "formula": "(pixel / 255.0 - mean) / std"
+    }
+  },
+  "outputs": {
+    "disease_probs": {
+      "shape": [
+        1,
+        5
+      ],
+      "dtype": "float32",
+      "description": "Softmax class probabilities. Predicted class is argmax.",
+      "labels": {
+        "0": "Healthy",
+        "1": "Miner",
+        "2": "Leaf rust",
+        "3": "Phoma",
+        "4": "Cercospora"
+      }
+    },
+    "severity": {
+      "shape": [
+        1,
+        1
+      ],
+      "dtype": "float32",
+      "unit": "normalized_ratio",
+      "range": [
+        0.0,
+        1.0
+      ],
+      "description": "Continuous infection severity ratio. Multiply by 100 to get percentage."
+    },
+    "bbox": {
+      "shape": [
+        1,
+        4
+      ],
+      "dtype": "float32",
+      "format": "[center_x, center_y, width, height]",
+      "range": [
+        0.0,
+        1.0
+      ],
+      "coordinate_convention": {
+        "model_origin": "top-left (x right, y down)",
+        "unity_conversion_note": "Unity UI/viewport origin is bottom-left. Use: y_unity = 1.0 - y_model"
+      }
+    }
+  }
+}

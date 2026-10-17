@@ -1,0 +1,27 @@
+{
+    "batch_size": 24,
+    "data_augmentation": "standard",
+    "epochs": 1,
+    "model": "efficientnet",
+    "optimizer": "sgd",
+    "pretrained": true,
+    "train_biotic_stress_acc": [
+        68.98305084745763
+    ],
+    "train_loss": [
+        0.8910018801689148
+    ],
+    "train_severity_acc": [
+        65.59322033898304
+    ],
+    "val_biotic_stress_acc": [
+        89.72332015810277
+    ],
+    "val_loss": [
+        0.3908197581768036
+    ],
+    "val_severity_acc": [
+        79.44664031620553
+    ],
+    "weight_decay": 0.0005
+}

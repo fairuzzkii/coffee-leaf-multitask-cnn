@@ -1,0 +1,251 @@
+filepath,filename,class_id,class_name,source,severity,fold,split
+JMUBEN V2\Healthy\1 (1393).jpg,1 (1393).jpg,0,Healthy,JMUBEN_V2,0,1,test
+JMUBEN V2\Healthy\10 (5181).jpg,10 (5181).jpg,0,Healthy,JMUBEN_V2,0,4,train
+JMUBEN V2\Healthy\1 (1345).jpg,1 (1345).jpg,0,Healthy,JMUBEN_V2,0,1,test
+JMUBEN V2\Healthy\1 (2959).jpg,1 (2959).jpg,0,Healthy,JMUBEN_V2,0,1,val
+JMUBEN V2\Healthy\2 (1714).jpg,2 (1714).jpg,0,Healthy,JMUBEN_V2,0,2,train
+JMUBEN V2\Healthy\10 (2742).jpg,10 (2742).jpg,0,Healthy,JMUBEN_V2,0,5,train
+JMUBEN V2\Healthy\10 (7809).jpg,10 (7809).jpg,0,Healthy,JMUBEN_V2,0,4,test
+JMUBEN V2\Healthy\2 (1373).jpg,2 (1373).jpg,0,Healthy,JMUBEN_V2,0,4,test
+JMUBEN V2\Healthy\10 (4725).jpg,10 (4725).jpg,0,Healthy,JMUBEN_V2,0,3,train
+JMUBEN V2\Healthy\10 (826).jpg,10 (826).jpg,0,Healthy,JMUBEN_V2,0,3,val
+JMUBEN V2\Healthy\1 (478).jpg,1 (478).jpg,0,Healthy,JMUBEN_V2,0,5,train
+JMUBEN V2\Healthy\2 (1790).jpg,2 (1790).jpg,0,Healthy,JMUBEN_V2,0,1,train
+JMUBEN V2\Healthy\10 (4716).jpg,10 (4716).jpg,0,Healthy,JMUBEN_V2,0,1,train
+JMUBEN V2\Healthy\10 (5953).jpg,10 (5953).jpg,0,Healthy,JMUBEN_V2,0,3,train
+JMUBEN V2\Healthy\2 (901).jpg,2 (901).jpg,0,Healthy,JMUBEN_V2,0,3,train
+JMUBEN V2\Healthy\2 (306).jpg,2 (306).jpg,0,Healthy,JMUBEN_V2,0,2,train
+JMUBEN V2\Healthy\10 (72).jpg,10 (72).jpg,0,Healthy,JMUBEN_V2,0,3,test
+JMUBEN V2\Healthy\10 (8965).jpg,10 (8965).jpg,0,Healthy,JMUBEN_V2,0,5,train
+JMUBEN V2\Healthy\10 (488).jpg,10 (488).jpg,0,Healthy,JMUBEN_V2,0,1,val
+JMUBEN V2\Healthy\1 (290).jpg,1 (290).jpg,0,Healthy,JMUBEN_V2,0,1,train
+JMUBEN V2\Healthy\1 (1661).jpg,1 (1661).jpg,0,Healthy,JMUBEN_V2,0,2,train
+JMUBEN V2\Healthy\2 (882).jpg,2 (882).jpg,0,Healthy,JMUBEN_V2,0,5,train
+JMUBEN V2\Healthy\1 (293).jpg,1 (293).jpg,0,Healthy,JMUBEN_V2,0,4,train
+JMUBEN V2\Healthy\10 (8699).jpg,10 (8699).jpg,0,Healthy,JMUBEN_V2,0,2,train
+JMUBEN V2\Healthy\10 (6723).jpg,10 (6723).jpg,0,Healthy,JMUBEN_V2,0,2,train
+JMUBEN V2\Healthy\1 (2030).jpg,1 (2030).jpg,0,Healthy,JMUBEN_V2,0,1,test
+JMUBEN V2\Healthy\1 (1419).jpg,1 (1419).jpg,0,Healthy,JMUBEN_V2,0,4,train
+JMUBEN V2\Healthy\1 (204).jpg,1 (204).jpg,0,Healthy,JMUBEN_V2,0,1,train
+JMUBEN V2\Healthy\10 (1551).jpg,10 (1551).jpg,0,Healthy,JMUBEN_V2,0,2,train
+JMUBEN V2\Healthy\10 (7693).jpg,10 (7693).jpg,0,Healthy,JMUBEN_V2,0,5,train
+JMUBEN V2\Healthy\2 (4486).jpg,2 (4486).jpg,0,Healthy,JMUBEN_V2,0,2,train
+JMUBEN V2\Healthy\1 (4699).jpg,1 (4699).jpg,0,Healthy,JMUBEN_V2,0,1,train
+JMUBEN V2\Healthy\1 (2992).jpg,1 (2992).jpg,0,Healthy,JMUBEN_V2,0,4,train
+JMUBEN V2\Healthy\2 (2592).jpg,2 (2592).jpg,0,Healthy,JMUBEN_V2,0,4,train
+JMUBEN V2\Healthy\10 (3674).jpg,10 (3674).jpg,0,Healthy,JMUBEN_V2,0,2,val
+JMUBEN V2\Healthy\10 (7826).jpg,10 (7826).jpg,0,Healthy,JMUBEN_V2,0,2,train
+JMUBEN V2\Healthy\10 (9215).jpg,10 (9215).jpg,0,Healthy,JMUBEN_V2,0,5,train
+JMUBEN V2\Healthy\10 (3754).jpg,10 (3754).jpg,0,Healthy,JMUBEN_V2,0,5,val
+JMUBEN V2\Healthy\2 (2385).jpg,2 (2385).jpg,0,Healthy,JMUBEN_V2,0,3,train
+JMUBEN V2\Healthy\10 (9136).jpg,10 (9136).jpg,0,Healthy,JMUBEN_V2,0,4,train
+JMUBEN V2\Healthy\10 (6371).jpg,10 (6371).jpg,0,Healthy,JMUBEN_V2,0,5,val
+JMUBEN V2\Healthy\2 (4153).jpg,2 (4153).jpg,0,Healthy,JMUBEN_V2,0,5,val
+JMUBEN V2\Healthy\10 (6866).jpg,10 (6866).jpg,0,Healthy,JMUBEN_V2,0,3,test
+JMUBEN V2\Healthy\10 (7598).jpg,10 (7598).jpg,0,Healthy,JMUBEN_V2,0,3,test
+JMUBEN V2\Healthy\10 (6634).jpg,10 (6634).jpg,0,Healthy,JMUBEN_V2,0,3,train
+JMUBEN V2\Healthy\10 (6610).jpg,10 (6610).jpg,0,Healthy,JMUBEN_V2,0,4,train
+JMUBEN V2\Healthy\1 (2420).jpg,1 (2420).jpg,0,Healthy,JMUBEN_V2,0,2,train
+JMUBEN V2\Healthy\1 (4312).jpg,1 (4312).jpg,0,Healthy,JMUBEN_V2,0,5,train
+JMUBEN V2\Healthy\1 (2622).jpg,1 (2622).jpg,0,Healthy,JMUBEN_V2,0,3,train
+JMUBEN V2\Healthy\2 (2652).jpg,2 (2652).jpg,0,Healthy,JMUBEN_V2,0,4,test
+JMUBEN V2\Miner\1 (2021).jpg,1 (2021).jpg,1,Miner,JMUBEN_V2,-1,4,train
+JMUBEN V2\Miner\1 (8329).jpg,1 (8329).jpg,1,Miner,JMUBEN_V2,-1,1,train
+JMUBEN V2\Miner\1 (8486).jpg,1 (8486).jpg,1,Miner,JMUBEN_V2,-1,3,val
+JMUBEN V2\Miner\1 (9574).jpg,1 (9574).jpg,1,Miner,JMUBEN_V2,-1,4,train
+JMUBEN V2\Miner\1 (11997).jpg,1 (11997).jpg,1,Miner,JMUBEN_V2,-1,1,test
+JMUBEN V2\Miner\1 (7686).jpg,1 (7686).jpg,1,Miner,JMUBEN_V2,-1,3,train
+JMUBEN V2\Miner\1 (10058).jpg,1 (10058).jpg,1,Miner,JMUBEN_V2,-1,4,train
+JMUBEN V2\Miner\1 (1655).jpg,1 (1655).jpg,1,Miner,JMUBEN_V2,-1,2,train
+JMUBEN V2\Miner\1 (10100).jpg,1 (10100).jpg,1,Miner,JMUBEN_V2,-1,5,train
+JMUBEN V2\Miner\1 (3197).jpg,1 (3197).jpg,1,Miner,JMUBEN_V2,-1,2,test
+JMUBEN V2\Miner\1 (3940).jpg,1 (3940).jpg,1,Miner,JMUBEN_V2,-1,5,train
+JMUBEN V2\Miner\1 (9928).jpg,1 (9928).jpg,1,Miner,JMUBEN_V2,-1,2,train
+JMUBEN V2\Miner\1 (1868).jpg,1 (1868).jpg,1,Miner,JMUBEN_V2,-1,2,train
+JMUBEN V2\Miner\1 (4794).jpg,1 (4794).jpg,1,Miner,JMUBEN_V2,-1,4,test
+JMUBEN V2\Miner\1 (9614).jpg,1 (9614).jpg,1,Miner,JMUBEN_V2,-1,4,train
+JMUBEN V2\Miner\1 (13311).jpg,1 (13311).jpg,1,Miner,JMUBEN_V2,-1,3,train
+JMUBEN V2\Miner\1 (16359).jpg,1 (16359).jpg,1,Miner,JMUBEN_V2,-1,4,train
+JMUBEN V2\Miner\1 (6224).jpg,1 (6224).jpg,1,Miner,JMUBEN_V2,-1,5,val
+JMUBEN V2\Miner\1 (12717).jpg,1 (12717).jpg,1,Miner,JMUBEN_V2,-1,5,train
+JMUBEN V2\Miner\1 (10018).jpg,1 (10018).jpg,1,Miner,JMUBEN_V2,-1,4,train
+JMUBEN V2\Miner\1 (5019).jpg,1 (5019).jpg,1,Miner,JMUBEN_V2,-1,4,val
+JMUBEN V2\Miner\1 (1207).jpg,1 (1207).jpg,1,Miner,JMUBEN_V2,-1,2,train
+JMUBEN V2\Miner\1 (17102).jpg,1 (17102).jpg,1,Miner,JMUBEN_V2,-1,2,train
+JMUBEN V2\Miner\1 (16842).jpg,1 (16842).jpg,1,Miner,JMUBEN_V2,-1,2,train
+JMUBEN V2\Miner\1 (11922).jpg,1 (11922).jpg,1,Miner,JMUBEN_V2,-1,4,test
+JMUBEN V2\Miner\1 (14053).jpg,1 (14053).jpg,1,Miner,JMUBEN_V2,-1,2,train
+JMUBEN V2\Miner\1 (1759).jpg,1 (1759).jpg,1,Miner,JMUBEN_V2,-1,5,train
+JMUBEN V2\Miner\1 (6823).jpg,1 (6823).jpg,1,Miner,JMUBEN_V2,-1,3,val
+JMUBEN V2\Miner\1 (12835).jpg,1 (12835).jpg,1,Miner,JMUBEN_V2,-1,3,train
+JMUBEN V2\Miner\1 (9056).jpg,1 (9056).jpg,1,Miner,JMUBEN_V2,-1,3,val
+JMUBEN V2\Miner\1 (9485).jpg,1 (9485).jpg,1,Miner,JMUBEN_V2,-1,3,train
+JMUBEN V2\Miner\1 (2417).jpg,1 (2417).jpg,1,Miner,JMUBEN_V2,-1,5,train
+JMUBEN V2\Miner\1 (13533).jpg,1 (13533).jpg,1,Miner,JMUBEN_V2,-1,5,test
+BRACOL_coffee_leaf_ images_datasets\coffee-datasets\coffee-datasets\leaf\images\1102.jpg,1102.jpg,1,Miner,BRACOL,2,1,train
+JMUBEN V2\Miner\1 (16217).jpg,1 (16217).jpg,1,Miner,JMUBEN_V2,-1,1,train
+JMUBEN V2\Miner\1 (10430).jpg,1 (10430).jpg,1,Miner,JMUBEN_V2,-1,5,train
+JMUBEN V2\Miner\1 (7555).jpg,1 (7555).jpg,1,Miner,JMUBEN_V2,-1,3,train
+JMUBEN V2\Miner\1 (15705).jpg,1 (15705).jpg,1,Miner,JMUBEN_V2,-1,5,train
+JMUBEN V2\Miner\1 (12491).jpg,1 (12491).jpg,1,Miner,JMUBEN_V2,-1,1,val
+JMUBEN V2\Miner\1 (3790).jpg,1 (3790).jpg,1,Miner,JMUBEN_V2,-1,2,train
+JMUBEN V2\Miner\1 (5831).jpg,1 (5831).jpg,1,Miner,JMUBEN_V2,-1,3,train
+JMUBEN V2\Miner\1 (8940).jpg,1 (8940).jpg,1,Miner,JMUBEN_V2,-1,5,train
+JMUBEN V2\Miner\1 (9654).jpg,1 (9654).jpg,1,Miner,JMUBEN_V2,-1,3,train
+JMUBEN V2\Miner\1 (13730).jpg,1 (13730).jpg,1,Miner,JMUBEN_V2,-1,1,train
+JMUBEN V2\Miner\1 (12327).jpg,1 (12327).jpg,1,Miner,JMUBEN_V2,-1,4,train
+JMUBEN V2\Miner\1 (14162).jpg,1 (14162).jpg,1,Miner,JMUBEN_V2,-1,1,train
+JMUBEN V2\Miner\1 (5053).jpg,1 (5053).jpg,1,Miner,JMUBEN_V2,-1,1,train
+JMUBEN V2\Miner\1 (4512).jpg,1 (4512).jpg,1,Miner,JMUBEN_V2,-1,2,val
+JMUBEN V2\Miner\1 (10122).jpg,1 (10122).jpg,1,Miner,JMUBEN_V2,-1,1,train
+JMUBEN V2\Miner\1 (15680).jpg,1 (15680).jpg,1,Miner,JMUBEN_V2,-1,1,train
+JMUBEN\Leaf rust\1 (183).jpg,1 (183).jpg,2,Leaf rust,JMUBEN,-1,5,train
+JMUBEN\Leaf rust\5 (2334).jpg,5 (2334).jpg,2,Leaf rust,JMUBEN,-1,4,train
+JMUBEN\Leaf rust\5 (1559).jpg,5 (1559).jpg,2,Leaf rust,JMUBEN,-1,2,test
+JMUBEN\Leaf rust\3 (1751).jpg,3 (1751).jpg,2,Leaf rust,JMUBEN,-1,1,train
+JMUBEN\Leaf rust\1 (419).jpg,1 (419).jpg,2,Leaf rust,JMUBEN,-1,1,train
+JMUBEN\Leaf rust\5 (2298).jpg,5 (2298).jpg,2,Leaf rust,JMUBEN,-1,4,train
+JMUBEN\Leaf rust\3 (951).jpg,3 (951).jpg,2,Leaf rust,JMUBEN,-1,2,train
+JMUBEN\Leaf rust\5 (3460).jpg,5 (3460).jpg,2,Leaf rust,JMUBEN,-1,5,train
+JMUBEN\Leaf rust\3 (418).jpg,3 (418).jpg,2,Leaf rust,JMUBEN,-1,3,train
+JMUBEN\Leaf rust\3 (1439).jpg,3 (1439).jpg,2,Leaf rust,JMUBEN,-1,5,train
+JMUBEN\Leaf rust\5 (1505).jpg,5 (1505).jpg,2,Leaf rust,JMUBEN,-1,1,test
+JMUBEN\Leaf rust\1 (17).jpg,1 (17).jpg,2,Leaf rust,JMUBEN,-1,2,train
+JMUBEN\Leaf rust\5 (2973).jpg,5 (2973).jpg,2,Leaf rust,JMUBEN,-1,3,train
+JMUBEN\Leaf rust\5 (1850).jpg,5 (1850).jpg,2,Leaf rust,JMUBEN,-1,1,train
+JMUBEN\Leaf rust\3 (1249).jpg,3 (1249).jpg,2,Leaf rust,JMUBEN,-1,2,train
+JMUBEN\Leaf rust\2 (916).jpg,2 (916).jpg,2,Leaf rust,JMUBEN,-1,4,train
+JMUBEN\Leaf rust\3 (1788).jpg,3 (1788).jpg,2,Leaf rust,JMUBEN,-1,4,test
+JMUBEN\Leaf rust\5 (1353).jpg,5 (1353).jpg,2,Leaf rust,JMUBEN,-1,2,test
+JMUBEN\Leaf rust\5 (3962).jpg,5 (3962).jpg,2,Leaf rust,JMUBEN,-1,4,train
+JMUBEN\Leaf rust\5 (99).jpg,5 (99).jpg,2,Leaf rust,JMUBEN,-1,2,val
+JMUBEN\Leaf rust\5 (2819).jpg,5 (2819).jpg,2,Leaf rust,JMUBEN,-1,1,train
+JMUBEN\Leaf rust\20210125_183408.jpg,20210125_183408.jpg,2,Leaf rust,JMUBEN,-1,5,train
+JMUBEN\Leaf rust\3 (1866).jpg,3 (1866).jpg,2,Leaf rust,JMUBEN,-1,2,train
+JMUBEN\Leaf rust\5 (4072).jpg,5 (4072).jpg,2,Leaf rust,JMUBEN,-1,1,train
+JMUBEN\Leaf rust\5 (2889).jpg,5 (2889).jpg,2,Leaf rust,JMUBEN,-1,2,train
+JMUBEN\Leaf rust\5 (4031).jpg,5 (4031).jpg,2,Leaf rust,JMUBEN,-1,5,val
+JMUBEN\Leaf rust\5 (3617).jpg,5 (3617).jpg,2,Leaf rust,JMUBEN,-1,3,train
+JMUBEN\Leaf rust\5 (3100).jpg,5 (3100).jpg,2,Leaf rust,JMUBEN,-1,3,train
+JMUBEN\Leaf rust\5 (96).jpg,5 (96).jpg,2,Leaf rust,JMUBEN,-1,5,train
+JMUBEN\Leaf rust\5 (763).jpg,5 (763).jpg,2,Leaf rust,JMUBEN,-1,4,val
+JMUBEN\Leaf rust\2 (981).jpg,2 (981).jpg,2,Leaf rust,JMUBEN,-1,3,test
+JMUBEN\Leaf rust\2 (799).jpg,2 (799).jpg,2,Leaf rust,JMUBEN,-1,5,train
+JMUBEN\Leaf rust\5 (3977).jpg,5 (3977).jpg,2,Leaf rust,JMUBEN,-1,1,val
+JMUBEN\Leaf rust\5 (3005).jpg,5 (3005).jpg,2,Leaf rust,JMUBEN,-1,3,val
+BRACOL_coffee_leaf_ images_datasets\coffee-datasets\coffee-datasets\leaf\images\609.jpg,609.jpg,2,Leaf rust,BRACOL,1,1,train
+JMUBEN\Leaf rust\5 (1305).jpg,5 (1305).jpg,2,Leaf rust,JMUBEN,-1,5,train
+JMUBEN\Leaf rust\5 (317).jpg,5 (317).jpg,2,Leaf rust,JMUBEN,-1,4,train
+JMUBEN\Leaf rust\5 (3201).jpg,5 (3201).jpg,2,Leaf rust,JMUBEN,-1,3,val
+JMUBEN\Leaf rust\1 (297).jpg,1 (297).jpg,2,Leaf rust,JMUBEN,-1,5,train
+JMUBEN\Leaf rust\3 (1932).jpg,3 (1932).jpg,2,Leaf rust,JMUBEN,-1,1,train
+JMUBEN\Leaf rust\5 (3589).jpg,5 (3589).jpg,2,Leaf rust,JMUBEN,-1,4,train
+JMUBEN\Leaf rust\5 (1419).jpg,5 (1419).jpg,2,Leaf rust,JMUBEN,-1,2,train
+JMUBEN\Leaf rust\3 (1827).jpg,3 (1827).jpg,2,Leaf rust,JMUBEN,-1,3,test
+JMUBEN\Leaf rust\5 (58).jpg,5 (58).jpg,2,Leaf rust,JMUBEN,-1,5,train
+JMUBEN\Leaf rust\5 (2462).jpg,5 (2462).jpg,2,Leaf rust,JMUBEN,-1,3,val
+JMUBEN\Leaf rust\5 (1751).jpg,5 (1751).jpg,2,Leaf rust,JMUBEN,-1,4,train
+JMUBEN\Leaf rust\5 (681).jpg,5 (681).jpg,2,Leaf rust,JMUBEN,-1,2,train
+JMUBEN\Leaf rust\5 (3493).jpg,5 (3493).jpg,2,Leaf rust,JMUBEN,-1,1,train
+JMUBEN\Leaf rust\5 (327).jpg,5 (327).jpg,2,Leaf rust,JMUBEN,-1,4,val
+JMUBEN\Leaf rust\5 (338).jpg,5 (338).jpg,2,Leaf rust,JMUBEN,-1,3,train
+JMUBEN\Phoma\1 (661).jpg,1 (661).jpg,3,Phoma,JMUBEN,-1,2,val
+JMUBEN\Phoma\6 (298).jpg,6 (298).jpg,3,Phoma,JMUBEN,-1,3,train
+JMUBEN\Phoma\6 (2481).jpg,6 (2481).jpg,3,Phoma,JMUBEN,-1,4,train
+JMUBEN\Phoma\4 (444).jpg,4 (444).jpg,3,Phoma,JMUBEN,-1,3,test
+JMUBEN\Phoma\6 (3502).jpg,6 (3502).jpg,3,Phoma,JMUBEN,-1,4,train
+JMUBEN\Phoma\6 (1816).jpg,6 (1816).jpg,3,Phoma,JMUBEN,-1,2,train
+JMUBEN\Phoma\6 (138).jpg,6 (138).jpg,3,Phoma,JMUBEN,-1,5,train
+JMUBEN\Phoma\6 (1752).jpg,6 (1752).jpg,3,Phoma,JMUBEN,-1,5,train
+JMUBEN\Phoma\6 (2553).jpg,6 (2553).jpg,3,Phoma,JMUBEN,-1,5,train
+JMUBEN\Phoma\1 (535).jpg,1 (535).jpg,3,Phoma,JMUBEN,-1,3,train
+JMUBEN\Phoma\3 (1646).jpg,3 (1646).jpg,3,Phoma,JMUBEN,-1,5,train
+JMUBEN\Phoma\6 (3451).jpg,6 (3451).jpg,3,Phoma,JMUBEN,-1,3,train
+JMUBEN\Phoma\6 (3640).jpg,6 (3640).jpg,3,Phoma,JMUBEN,-1,1,train
+JMUBEN\Phoma\6 (3393).jpg,6 (3393).jpg,3,Phoma,JMUBEN,-1,4,train
+JMUBEN\Phoma\6 (3410).jpg,6 (3410).jpg,3,Phoma,JMUBEN,-1,4,train
+JMUBEN\Phoma\6 (186).jpg,6 (186).jpg,3,Phoma,JMUBEN,-1,2,train
+BRACOL_coffee_leaf_ images_datasets\coffee-datasets\coffee-datasets\leaf\images\401.jpg,401.jpg,3,Phoma,BRACOL,1,5,train
+JMUBEN\Phoma\1 (858).jpg,1 (858).jpg,3,Phoma,JMUBEN,-1,1,train
+JMUBEN\Phoma\6 (859).jpg,6 (859).jpg,3,Phoma,JMUBEN,-1,5,test
+JMUBEN\Phoma\6 (2110).jpg,6 (2110).jpg,3,Phoma,JMUBEN,-1,4,test
+JMUBEN\Phoma\4 (461).jpg,4 (461).jpg,3,Phoma,JMUBEN,-1,2,train
+JMUBEN\Phoma\3 (1662).jpg,3 (1662).jpg,3,Phoma,JMUBEN,-1,3,train
+JMUBEN\Phoma\6 (1830).jpg,6 (1830).jpg,3,Phoma,JMUBEN,-1,5,train
+JMUBEN\Phoma\1 (650).jpg,1 (650).jpg,3,Phoma,JMUBEN,-1,3,train
+JMUBEN\Phoma\6 (3245).jpg,6 (3245).jpg,3,Phoma,JMUBEN,-1,4,test
+JMUBEN\Phoma\6 (464).jpg,6 (464).jpg,3,Phoma,JMUBEN,-1,1,train
+JMUBEN\Phoma\2 (559).jpg,2 (559).jpg,3,Phoma,JMUBEN,-1,1,train
+JMUBEN\Phoma\2 (424).jpg,2 (424).jpg,3,Phoma,JMUBEN,-1,3,train
+JMUBEN\Phoma\6 (102).jpg,6 (102).jpg,3,Phoma,JMUBEN,-1,5,val
+JMUBEN\Phoma\1 (839).jpg,1 (839).jpg,3,Phoma,JMUBEN,-1,5,train
+JMUBEN\Phoma\3 (1203).jpg,3 (1203).jpg,3,Phoma,JMUBEN,-1,2,test
+JMUBEN\Phoma\4 (484).jpg,4 (484).jpg,3,Phoma,JMUBEN,-1,4,train
+JMUBEN\Phoma\6 (929).jpg,6 (929).jpg,3,Phoma,JMUBEN,-1,3,val
+JMUBEN\Phoma\6 (1100).jpg,6 (1100).jpg,3,Phoma,JMUBEN,-1,4,train
+JMUBEN\Phoma\6 (1983).jpg,6 (1983).jpg,3,Phoma,JMUBEN,-1,1,val
+JMUBEN\Phoma\2 (673).jpg,2 (673).jpg,3,Phoma,JMUBEN,-1,1,val
+JMUBEN\Phoma\6 (224).jpg,6 (224).jpg,3,Phoma,JMUBEN,-1,2,train
+JMUBEN\Phoma\4 (201).jpg,4 (201).jpg,3,Phoma,JMUBEN,-1,5,val
+JMUBEN\Phoma\2 (323).jpg,2 (323).jpg,3,Phoma,JMUBEN,-1,2,train
+JMUBEN\Phoma\2 (619).jpg,2 (619).jpg,3,Phoma,JMUBEN,-1,1,test
+JMUBEN\Phoma\1 (32).jpg,1 (32).jpg,3,Phoma,JMUBEN,-1,3,train
+JMUBEN\Phoma\6 (3269).jpg,6 (3269).jpg,3,Phoma,JMUBEN,-1,4,train
+JMUBEN\Phoma\6 (2516).jpg,6 (2516).jpg,3,Phoma,JMUBEN,-1,3,train
+JMUBEN\Phoma\3 (1249).jpg,3 (1249).jpg,3,Phoma,JMUBEN,-1,1,train
+JMUBEN\Phoma\2 (646).jpg,2 (646).jpg,3,Phoma,JMUBEN,-1,1,train
+JMUBEN\Phoma\6 (2056).jpg,6 (2056).jpg,3,Phoma,JMUBEN,-1,2,train
+JMUBEN\Phoma\1 (576).jpg,1 (576).jpg,3,Phoma,JMUBEN,-1,4,test
+JMUBEN\Phoma\2 (500).jpg,2 (500).jpg,3,Phoma,JMUBEN,-1,2,val
+JMUBEN\Phoma\4 (292).jpg,4 (292).jpg,3,Phoma,JMUBEN,-1,1,val
+JMUBEN\Phoma\2 (862).jpg,2 (862).jpg,3,Phoma,JMUBEN,-1,2,train
+JMUBEN\Cerscospora\6 (263).jpg,6 (263).jpg,4,Cercospora,JMUBEN,-1,4,train
+JMUBEN\Cerscospora\9 (3222).jpg,9 (3222).jpg,4,Cercospora,JMUBEN,-1,1,test
+JMUBEN\Cerscospora\7 (32).jpg,7 (32).jpg,4,Cercospora,JMUBEN,-1,3,train
+JMUBEN\Cerscospora\6 (745).jpg,6 (745).jpg,4,Cercospora,JMUBEN,-1,2,train
+JMUBEN\Cerscospora\9 (3342).jpg,9 (3342).jpg,4,Cercospora,JMUBEN,-1,2,train
+JMUBEN\Cerscospora\9 (1889).jpg,9 (1889).jpg,4,Cercospora,JMUBEN,-1,5,val
+JMUBEN\Cerscospora\9 (1288).jpg,9 (1288).jpg,4,Cercospora,JMUBEN,-1,5,train
+JMUBEN\Cerscospora\7 (815).jpg,7 (815).jpg,4,Cercospora,JMUBEN,-1,2,train
+JMUBEN\Cerscospora\6 (96).jpg,6 (96).jpg,4,Cercospora,JMUBEN,-1,1,val
+JMUBEN\Cerscospora\9 (926).jpg,9 (926).jpg,4,Cercospora,JMUBEN,-1,5,test
+JMUBEN\Cerscospora\7 (864).jpg,7 (864).jpg,4,Cercospora,JMUBEN,-1,2,val
+BRACOL_coffee_leaf_ images_datasets\coffee-datasets\coffee-datasets\leaf\images\1393.jpg,1393.jpg,4,Cercospora,BRACOL,1,1,val
+JMUBEN\Cerscospora\4 (200).jpg,4 (200).jpg,4,Cercospora,JMUBEN,-1,4,train
+JMUBEN\Cerscospora\6 (355).jpg,6 (355).jpg,4,Cercospora,JMUBEN,-1,1,val
+JMUBEN\Cerscospora\9 (3191).jpg,9 (3191).jpg,4,Cercospora,JMUBEN,-1,4,train
+JMUBEN\Cerscospora\9 (3735).jpg,9 (3735).jpg,4,Cercospora,JMUBEN,-1,2,test
+JMUBEN\Cerscospora\9 (945).jpg,9 (945).jpg,4,Cercospora,JMUBEN,-1,2,val
+JMUBEN\Cerscospora\8 (551).jpg,8 (551).jpg,4,Cercospora,JMUBEN,-1,4,train
+JMUBEN\Cerscospora\9 (1582).jpg,9 (1582).jpg,4,Cercospora,JMUBEN,-1,5,test
+JMUBEN\Cerscospora\4 (259).jpg,4 (259).jpg,4,Cercospora,JMUBEN,-1,5,train
+JMUBEN\Cerscospora\9 (604).jpg,9 (604).jpg,4,Cercospora,JMUBEN,-1,3,val
+JMUBEN\Cerscospora\4 (494).jpg,4 (494).jpg,4,Cercospora,JMUBEN,-1,5,train
+JMUBEN\Cerscospora\4 (40).jpg,4 (40).jpg,4,Cercospora,JMUBEN,-1,2,train
+JMUBEN\Cerscospora\9 (589).jpg,9 (589).jpg,4,Cercospora,JMUBEN,-1,1,train
+JMUBEN\Cerscospora\4 (1117).jpg,4 (1117).jpg,4,Cercospora,JMUBEN,-1,3,train
+JMUBEN\Cerscospora\7 (439).jpg,7 (439).jpg,4,Cercospora,JMUBEN,-1,4,train
+JMUBEN\Cerscospora\9 (1285).jpg,9 (1285).jpg,4,Cercospora,JMUBEN,-1,5,train
+JMUBEN\Cerscospora\9 (1975).jpg,9 (1975).jpg,4,Cercospora,JMUBEN,-1,3,train
+JMUBEN\Cerscospora\9 (2797).jpg,9 (2797).jpg,4,Cercospora,JMUBEN,-1,1,train
+JMUBEN\Cerscospora\9 (817).jpg,9 (817).jpg,4,Cercospora,JMUBEN,-1,5,train
+JMUBEN\Cerscospora\9 (1291).jpg,9 (1291).jpg,4,Cercospora,JMUBEN,-1,3,val
+JMUBEN\Cerscospora\9 (3733).jpg,9 (3733).jpg,4,Cercospora,JMUBEN,-1,1,test
+JMUBEN\Cerscospora\7 (890).jpg,7 (890).jpg,4,Cercospora,JMUBEN,-1,4,train
+JMUBEN\Cerscospora\9 (482).jpg,9 (482).jpg,4,Cercospora,JMUBEN,-1,1,val
+JMUBEN\Cerscospora\9 (642).jpg,9 (642).jpg,4,Cercospora,JMUBEN,-1,4,train
+JMUBEN\Cerscospora\9 (2027).jpg,9 (2027).jpg,4,Cercospora,JMUBEN,-1,3,test
+JMUBEN\Cerscospora\9 (705).jpg,9 (705).jpg,4,Cercospora,JMUBEN,-1,5,val
+JMUBEN\Cerscospora\9 (1017).jpg,9 (1017).jpg,4,Cercospora,JMUBEN,-1,3,val
+JMUBEN\Cerscospora\6 (498).jpg,6 (498).jpg,4,Cercospora,JMUBEN,-1,3,test
+JMUBEN\Cerscospora\8 (658).jpg,8 (658).jpg,4,Cercospora,JMUBEN,-1,4,train
+JMUBEN\Cerscospora\8 (939).jpg,8 (939).jpg,4,Cercospora,JMUBEN,-1,1,train
+JMUBEN\Cerscospora\9 (2821).jpg,9 (2821).jpg,4,Cercospora,JMUBEN,-1,4,test
+JMUBEN\Cerscospora\7 (641).jpg,7 (641).jpg,4,Cercospora,JMUBEN,-1,3,train
+JMUBEN\Cerscospora\6 (847).jpg,6 (847).jpg,4,Cercospora,JMUBEN,-1,2,train
+JMUBEN\Cerscospora\7 (150).jpg,7 (150).jpg,4,Cercospora,JMUBEN,-1,4,train
+JMUBEN\Cerscospora\9 (1374).jpg,9 (1374).jpg,4,Cercospora,JMUBEN,-1,2,test
+JMUBEN\Cerscospora\8 (381).jpg,8 (381).jpg,4,Cercospora,JMUBEN,-1,2,train
+JMUBEN\Cerscospora\9 (1472).jpg,9 (1472).jpg,4,Cercospora,JMUBEN,-1,5,train
+JMUBEN\Cerscospora\6 (554).jpg,6 (554).jpg,4,Cercospora,JMUBEN,-1,1,test
+JMUBEN\Cerscospora\4 (175).jpg,4 (175).jpg,4,Cercospora,JMUBEN,-1,3,test

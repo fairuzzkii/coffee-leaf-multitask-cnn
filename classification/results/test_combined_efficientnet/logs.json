@@ -1,0 +1,21 @@
+{
+    "batch_size": 24,
+    "data_augmentation": "standard",
+    "epochs": 1,
+    "model": "efficientnet",
+    "optimizer": "sgd",
+    "pretrained": true,
+    "train_acc": [
+        90.96608720433171
+    ],
+    "train_loss": [
+        0.27272146940231323
+    ],
+    "val_acc": [
+        97.70580296896087
+    ],
+    "val_loss": [
+        0.05468426272273064
+    ],
+    "weight_decay": 0.0005
+}

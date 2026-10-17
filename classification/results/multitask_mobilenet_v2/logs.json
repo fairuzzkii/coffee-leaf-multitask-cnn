@@ -1,0 +1,27 @@
+{
+    "batch_size": 24,
+    "data_augmentation": "standard",
+    "epochs": 1,
+    "model": "mobilenet_v2",
+    "optimizer": "sgd",
+    "pretrained": true,
+    "train_biotic_stress_acc": [
+        71.52542372881356
+    ],
+    "train_loss": [
+        0.8441393971443176
+    ],
+    "train_severity_acc": [
+        64.23728813559322
+    ],
+    "val_biotic_stress_acc": [
+        83.79446640316206
+    ],
+    "val_loss": [
+        0.5578922629356384
+    ],
+    "val_severity_acc": [
+        73.51778656126483
+    ],
+    "weight_decay": 0.0005
+}
